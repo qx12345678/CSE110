@@ -29,9 +29,9 @@ Control System:<br>
 
 ## RECENTLY GAMING
 ### My favorite switch game recently, they are sooooo good!!
-- Animal Crossing
+- Animal Crossing<br>
 ! [](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_900/ncom/en_US/games/switch/a/animal-crossing-new-horizons-switch/hero | width=100)
-- The Legend of Zelda: Breath of the Wild
+- The Legend of Zelda: Breath of the Wild<br>
 ! [](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_900/ncom/en_US/games/switch/t/the-legend-of-zelda-breath-of-the-wild-switch/hero | width=100)
-- Spiritfarer
+- Spiritfarer<br>
 ! [](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_900/ncom/en_US/games/switch/s/spiritfarer-switch/hero | width=100)
