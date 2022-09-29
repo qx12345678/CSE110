@@ -29,10 +29,10 @@ Control System:<br>
 ## RECENTLY GAMING
 ### My favorite switch games recently, they are sooooo good!!
 - **Animal Crossing**<br>
-<img src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_900/ncom/en_US/games/switch/a/animal-crossing-new-horizons-switch/hero" width="100" height="100">
+<img src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_900/ncom/en_US/games/switch/a/animal-crossing-new-horizons-switch/hero" width="500" height="200">
 
 - **The Legend of Zelda: Breath of the Wild**<br>
-<img src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_900/ncom/en_US/games/switch/t/the-legend-of-zelda-breath-of-the-wild-switch/hero" width="100" height="100">
+<img src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_900/ncom/en_US/games/switch/t/the-legend-of-zelda-breath-of-the-wild-switch/hero" width="500" height="200">
 
 - **Spiritfarer**<br>
-<img src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_900/ncom/en_US/games/switch/s/spiritfarer-switch/hero" width="100" height="100">
+<img src="https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_900/ncom/en_US/games/switch/s/spiritfarer-switch/hero" width="500" height="200">
